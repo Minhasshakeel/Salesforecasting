@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import joblib
 
 st.set_page_config(page_title="Sales Forecasting", layout="centered")
 st.title("📊 Sales Forecasting App")
